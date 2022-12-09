@@ -1,1 +1,2 @@
-# Python_ZSA15_Lab2
+# ZSA15_Lab2
+![Screenshot](Screenshot.jpg)
